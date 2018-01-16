@@ -62,16 +62,6 @@ return array(
 			'collation' => 'utf8_turkish_ci',
 			'prefix'    => '',
 		),
-		'mysql2' => array(
-			'driver'    => 'mysql',
-			'host'      => 'localhost',
-			'database'  => 'egestaj_sys',
-			'username'  => 'egestaj_sys',
-			'password'  => '61189437',
-			'charset'   => 'utf8',
-			'collation' => 'utf8_turkish_ci',
-			'prefix'    => '',
-		),
 
 		'pgsql' => array(
 			'driver'   => 'pgsql',
